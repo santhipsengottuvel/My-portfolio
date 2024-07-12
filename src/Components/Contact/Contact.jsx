@@ -5,6 +5,7 @@ import mail_icon from '../../assets/mail_icon.svg'
 import location_icon from '../../assets/location_icon.svg'
 import call_icon from '../../assets/call_icon.svg'
 import linked_icon from '../../assets/ln icon.png'
+import github_icon from '../../assets/github_icon.png'
 const Contact = () => {
 
   const onSubmit = async (event) => {
@@ -53,6 +54,9 @@ const Contact = () => {
                 </div>
                 <div className="contact-detail">
                     <img src={linked_icon} alt="" /><a href="https://www.linkedin.com/in/santhip-sengottuvel-4a9619185/"> Santhip Sengottuvel</a>
+                </div>
+                <div className="contact-detail">
+                    <img src={github_icon} alt="" /><a href="https://github.com/santhipsengottuvel"> Santhip Sengottuvel</a>
                 </div>
             </div>
         </div>
