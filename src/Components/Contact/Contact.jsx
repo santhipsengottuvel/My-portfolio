@@ -42,7 +42,7 @@ const Contact = () => {
             <p>I'm currently avaliable to take on new projects, so feel free to send me a message about anything that you want me to work on. You can contact anytime.</p>
             <div className="contact-details">
                 <div className="contact-detail">
-                    <img src={mail_icon} alt="" /><p>santhipsengottuvel@gmail.com</p>
+                    <img src={mail_icon} alt="" /><a href="mailto:santhipsengottuvel@gmail.com"> santhipsengottuvel@gmail.com</a>
 
                 </div>
                 <div className="contact-detail">
@@ -50,7 +50,7 @@ const Contact = () => {
                     
                 </div>
                 <div className="contact-detail">
-                    <img src={location_icon} alt="" /><p>Thiruchengode, TamilNadu</p>
+                    <img src={location_icon} alt="" /><a href="https://maps.app.goo.gl/MopuCqMFLkTAx7Mq6">Tiruchengode, TamilNadu</a>
                 </div>
                 <div className="contact-detail">
                     <img src={linked_icon} alt="" /><a href="https://www.linkedin.com/in/santhip-sengottuvel-4a9619185/"> Santhip Sengottuvel</a>
