@@ -7,7 +7,7 @@ const Footer = () => {
     <div className='footer'>
         <div className="footer-top">
             <div className="footer-top-left">
-                <h1>SA SA</h1>
+                <h1><span>SA SA</span></h1>
                 <p>I am fresher Data Analyst talented in Excel, Python, SQL and BI Tools</p>
             </div>
             <div className="footer-top-right">

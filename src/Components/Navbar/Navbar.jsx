@@ -20,7 +20,7 @@ const Navbar = () => {
   
   return (
     <div className='navbar'>
-      <p>SA SE</p>
+      <p> <span>SA SE</span> </p>
       <img src={menu_open} onClick={openMenu} alt="" className='nav-mob-open'/>
       <ul ref={menuRef} className="nav-menu">
       <img src={menu_close} onClick={closeMenu} alt="" className='nav-mob-close'/>

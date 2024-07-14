@@ -45,6 +45,12 @@
 .nav-mob-open{
     display: none;
 }
+.navbar p span{
+    background: linear-gradient(270deg, #DF8908 10%, #B415FF 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 @media(max-width:768px){
     .navbar{
         margin: 20px 50px;
