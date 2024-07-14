@@ -11,7 +11,7 @@ const Hero = () => {
             <p>
                 Highly analytical and detail-oriented fresher data analyst with a strong foundation
                 in Python programming, advanced Excel, MySQL, Power BI, Tableau, data cleaning,
-                statistical analysis, and data mining. | am skilled in developing and implementing
+                statistical analysis, and data mining. I am skilled in developing and implementing
                 data collection systems, identifying business needs, and creating predictive models to
                 improve forecasting accuracy.
             </p>
