@@ -10,7 +10,7 @@ const Hero = () => {
             <h1><span>I am Santhip Sengottuvel,</span> Fresher Data Analyst</h1>
             <p>
                 Highly analytical and detail-oriented fresher data analyst with a strong foundation
-                in Python programming, advanced Excel, MySQL, Power BI, Tableau, data cleaning,
+                in Python programming, Advanced Excel, MySQL, Power BI, Tableau, data cleaning,
                 statistical analysis, and data mining. I am skilled in developing and implementing
                 data collection systems, identifying business needs, and creating predictive models to
                 improve forecasting accuracy.
