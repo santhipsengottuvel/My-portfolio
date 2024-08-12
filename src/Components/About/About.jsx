@@ -15,8 +15,7 @@ const About = () => {
                 </div>
                 <div className="about-right">
                     <div className="about-para">
-                        <p> I am a fresher data analyst with an strong foundation in python programming language, SQL and Data visualisation tools</p>
-                        <p>I am too worked with statistical modelling and machine learning, So that I am capable of building predictive models</p>
+                        <p> I am a fresher Machine Learning Engineer with an strong foundation in python programming language, Machine Learning and Building Statistical Models</p>
                     </div>
                     <div className="about-skills">
                         <div className="about-skill"><p>Python</p><hr style={{width:"75%"}} /></div>
