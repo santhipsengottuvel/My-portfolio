@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-top">
             <div className="footer-top-left">
                 <h1><span>SA SA</span></h1>
-                <p>Fresher Data Analyst talented in Excel, Python, SQL and BI Tools</p>
+                <p>Fresher Machine Learning Engineer talented in Python, Machine Learning and Data Visualization </p>
             </div>
             <div className="footer-top-right">
                 <div className="footer-email-input">

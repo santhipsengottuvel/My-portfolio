@@ -11,8 +11,8 @@ const Services_Data = [
     },
     {
         s_no:"03",
-        s_name:"SQL",
-        s_desc:"Extracting and manipulating data from datasets by SQL Queries.."
+        s_name:"Machine Learning",
+        s_desc:"Develop statistical model for decision making.."
     },
     {
         s_no:"04",
@@ -26,8 +26,8 @@ const Services_Data = [
     },
     {
         s_no:"06",
-        s_name:"Machine Learning",
-        s_desc:"Develop statistical model for decision making.."
+        s_name:"SQL",
+        s_desc:"Extracting and manipulating data from datasets by SQL Queries.."
     },
 ]
  

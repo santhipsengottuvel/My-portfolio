@@ -7,11 +7,11 @@ const Hero = () => {
     return (
         <div id='home' className='hero'>
             <img src={profile_img} alt="" />
-            <h1><span>I am Santhip Sengottuvel,</span> Fresher Data Analyst</h1>
+            <h1><span>I am Santhip Sengottuvel,</span> Machine Learning Engineer</h1>
             <p>
-                Highly analytical and detail-oriented fresher data analyst with a strong foundation
-                in Python programming, Advanced Excel, MySQL, Power BI, Tableau, data cleaning,
-                statistical analysis, and data mining. I am skilled in developing and implementing
+                Highly analytical and detail-oriented Machine Learning Engineer with a strong foundation
+                in Python programming, Machine Learning, statistical analysis, data mining, Advanced Excel, MySQL, Power BI, Tableau. 
+                I am skilled in developing and implementing
                 data collection systems, identifying business needs, and creating predictive models to
                 improve forecasting accuracy.
             </p>
